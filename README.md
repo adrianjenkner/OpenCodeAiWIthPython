@@ -2,6 +2,8 @@
 
 AI-driven project leveraging Python.
 
+This is a dummy change for testing commit flow.
+
 ## Installation
 
 ```bash
