@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "opencode_ai_with_python"
+version = "0.1.0"
+description = "AI-driven project leveraging Python"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Adrian Jenkner"},
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
